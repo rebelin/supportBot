@@ -14,4 +14,4 @@ All commands for this bot start with "."
 
 **sendMessage <@Used-id, type of message>** DMs the specified user message (type of message can be "encourage", "advice", or "inspire")
 
-**stope** Exits bot
+**stop** Exits bot
